@@ -1,0 +1,5 @@
+# Optional integrations. Install only when you intend to use these features.
+transformers>=4.41,<6
+sentence-transformers>=3,<6
+scikit-learn>=1.4,<2
+nltk>=3.8,<4
